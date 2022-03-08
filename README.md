@@ -1,2 +1,3 @@
-# freelancerautomation
-auto bidding with ui
+# FreeLancer-Automation-API
+
+API for freelancer auto bidder
